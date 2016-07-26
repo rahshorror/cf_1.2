@@ -1,0 +1,12 @@
+.jumbotron {
+    background-image: url("../img/enemy-landscape.png");
+    background-size: cover;
+}
+
+.jumbotron p {
+      color: red;
+}
+
+.col-md-3 a {
+    color: red;
+}

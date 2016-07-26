@@ -1,1 +1,1 @@
-cf_1.6
+# CF template

@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightslategray;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.column_box {
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 5px solid black;
+  width: 60%;
+  height: 50%;
+  margin: auto auto;
+}
+
+.left_col {
+  float: left;
+  width: 60%;
+}
+
+.right_col{
+  float: left;
+  width: 40%;
+}
+
+h1 {
+  text-align: justify;
+  margin-top: 10px;
+}
