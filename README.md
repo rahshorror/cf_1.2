@@ -1,1 +1,1 @@
-# CF template
+# CareerFoundry 1.6
